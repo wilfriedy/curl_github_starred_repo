@@ -4,7 +4,7 @@
 
 $ch = curl_init();
 $headers = [
-    "Authorization: token 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",
+    "Authorization: token ",
     // "User-Agent : wilfriedy"
 ];
 curl_setopt_array($ch , [
